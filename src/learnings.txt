@@ -1,0 +1,15 @@
+Concepts covered in this project:
+- useState()
+- useEffect()
+- npm i react-icons axios
+- react-icons for UI
+- axios
+    > What is Axios?
+        > Axios is a popular library that is often used in React applications for making HTTP requests to external APIs or fetching data from a server.
+        > It is a promise-based library that provides an easy-to-use API for performing HTTP requests, handling responses, and managing errors.
+
+
+- npm i react-router-dom@6
+ 
+- npm i dompurify
+    > preventing cross-side scripting attacks
